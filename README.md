@@ -2,7 +2,8 @@
 
 Ever wonder what you might weigh on Mars or The Moon? Here's your chance to find out.
 
-![Uploading 1.PNG…]()
+![1](https://user-images.githubusercontent.com/65428639/133889376-fc76ced7-b054-4ec3-a634-8e4be1d0b26f.PNG)
+ges.githubusercontent.com/65428639/133889356-6d8926d6-d529-415a-a146-488f9113697f.PNG)
 ![2](https://user-images.githubusercontent.com/65428639/133889307-8b25b16d-67b7-441d-a7e5-7d097c0f39d5.PNG)
 ![3](https://user-images.githubusercontent.com/65428639/133889309-5a18c81f-67c1-429e-bbbe-3b7cfc9c166c.PNG)
 ![4](https://user-images.githubusercontent.com/65428639/133889312-83691449-aab5-4660-8a12-0d70c0c5d1ba.PNG)
